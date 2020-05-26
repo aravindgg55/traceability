@@ -1,9 +1,4 @@
 {
-    "success": true,
-    "message": null,
-    "errorMessage": null,
-    "status": 200,
-    "data": {
         "externalOrderId": "73363542651",
         "skuTraceDTOList": [
             {
@@ -22,24 +17,4 @@
                     "Onion",
                     "Cabbage"
                 ]
-            },
-            {
-                "skuId": 1,
-                "skuName": "Onion",
-                "harvestDate": "2020-05-26T00:00:00.000+0000",
-                "onBoardDate": "2020-05-26T00:00:00.000+0000",
-                "vendorId": 2,
-                "vendorName": "Vendor 2",
-                "vendorImageUrl": "",
-                "locationText": "Chennai, Tamil Nadu",
-                "latitude": 12.5432,
-                "longitude": 14.543,
-                "skusCultivated": [
-                    "Potato",
-                    "Onion",
-                    "Cabbage"
-                ]
-            }
-        ]
-    }
-}
+ }
