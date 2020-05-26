@@ -1,23 +1,11 @@
 {
-
-"trace":{
-        "externalOrderId": "73363542651",
-        "skuTraceDTOList": [
-            {
-                "skuId": 1,
-                "skuName": "Tomato",
-                "harvestDate": "2020-05-26T00:00:00.000+0000",
-                "onBoardDate": "2020-05-26T00:00:00.000+0000",
-                "vendorId": 1,
-                "vendorName": "Vendor 1",
-                "vendorImageUrl": "",
-                "locationText": "Malur, Karnataka",
-                "latitude": 12.5432,
-                "longitude": 14.543,
-                "skusCultivated": [
-                    "Potato",
-                    "Onion",
-                    "Cabbage"
-                ]
- }
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
